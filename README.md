@@ -24,7 +24,7 @@ Yeardle challenges players to guess a five-letter word within six attempts, prov
 
 - **Interactive Gameplay:** Fun and challenging word-guessing game.  
 - **Database Integration:** SQLite database tracks game data and statistics.  
-- **User-Friendly Interface:** Simple command-line interface for easy access.  
+- **User-Friendly Interface:** Interactive GUI interface for easy game play.  
 - **Modular Code:** Structured Python code for readability and future extension.  
 
 ---
