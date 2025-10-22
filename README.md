@@ -1,12 +1,13 @@
 # Yeardle
 
+**Yeardle** is a Wordle-inspired game developed in Python. This project demonstrates programming, database management, and game logic skills, along with a clear explanation of the design and implementation process.
+
 ## Video Demonstration
 
 Watch a short video showing **how to play Yeardle**:
 
 [![How to Play Yeardle](https://img.youtube.com/vi/iEXfgVlUQPI/0.jpg)](https://www.youtube.com/watch?v=iEXfgVlUQPI)
 
-**Yeardle** is a Wordle-inspired game developed in Python. This project demonstrates programming, database management, and game logic skills, along with a clear explanation of the design and implementation process.
 
 ---
 
