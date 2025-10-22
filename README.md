@@ -8,21 +8,6 @@ Watch a short video showing **how to play Yeardle**:
 
 [![How to Play Yeardle](https://img.youtube.com/vi/iEXfgVlUQPI/0.jpg)](https://www.youtube.com/watch?v=iEXfgVlUQPI)
 
-
----
-
-## Project Files
-
-- **Yeardle.py** – Main Python script for the game.  
-- **Yeardle.db** – SQLite database used to store game data and statistics.  
-- **Yeardle Report.docx** – Detailed report explaining the project’s design, functionality, and technical approach.  
-
-# Yeardle
-
-[![How to Play Yeardle](https://img.youtube.com/vi/iEXfgVlUQPI/0.jpg)](https://www.youtube.com/watch?v=iEXfgVlUQPI)
-
-**Yeardle** is a Wordle-inspired game developed in Python. This project demonstrates programming, database management, GUI development, and game logic skills, along with a clear explanation of the design and implementation process.
-
 ---
 
 ## Project Files
