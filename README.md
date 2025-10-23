@@ -1,4 +1,4 @@
-# Yeardle
+# Yeardle (AQA A Level Computer Science Project)
 
 **Yeardle** is a Wordle-inspired game developed in Python. This project demonstrates programming, database management, and game logic skills, along with a clear explanation of the design and implementation process.
 
